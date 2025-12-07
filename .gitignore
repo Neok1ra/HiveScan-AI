@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+n30k1ra_final_brain.pkl
+n30k1ra_v11_brain.pkl
+n30k1ra_brain_v12.pkl
+.DS_Store
+.env
+.idea/
+.vscode/
